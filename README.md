@@ -46,4 +46,5 @@ cd weather_app
     Mobil uyumlu versiyon geliştirme.
      
 📬 İletişim 
+
 Herhangi bir geliştirme ve öneri için tevfikturkoglu45@gmail.com üzerinden ulaşabilirsiniz.
