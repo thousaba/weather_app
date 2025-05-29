@@ -27,7 +27,7 @@ Aşağıdaki kütüphaneler projede kullanılmıştır:
 # Kodları İndir
 Bu projeyi GitHub'dan klonla veya doğrudan indir:
 
-git clone https://github.com/kullanici_adi/weather_app.git 
+git clone https://github.com/thousaba/weather_app.git 
 cd weather_app
 
 📝 Nasıl Kullanılır? 
